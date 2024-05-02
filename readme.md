@@ -1,3 +1,5 @@
+## 此项目在原项目上添加了串口设备的支持,可以调用PN532设备来读取banapass卡相关信息,已提交pr但作者并未合并,本仓库保留
+
 # py-banapass
 
 ## Python Middleware for Banapassport Emulation
